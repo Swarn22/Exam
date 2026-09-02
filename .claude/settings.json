@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"C:\\\\Users\\\\swarn\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--Exam\\\\88f9432c-1700-4c81-a4ec-ff5b7e376279\\\\dl_appsc2.ps1\")",
+      "WebFetch(domain:tnpsc.gov.in)"
+    ]
+  }
+}

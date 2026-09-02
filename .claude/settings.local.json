@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:keralapsc.gov.in)",
+      "WebFetch(domain:appsc.gov.in)",
+      "PowerShell(& \"C:\\\\Users\\\\swarn\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--Exam\\\\88f9432c-1700-4c81-a4ec-ff5b7e376279\\\\dl_appsc.ps1\")"
+    ]
+  }
+}
