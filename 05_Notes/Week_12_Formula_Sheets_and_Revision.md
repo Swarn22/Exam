@@ -2,7 +2,34 @@
 
 **All sections.** Everything worth memorising, on one page per subject. Read this cover to cover on the Saturday of Week 12, and again the evening before the exam.
 
-> Nothing new here — every item appears in its own week's notes with explanation. This is for **recall drilling**, not learning.
+---
+
+## 💡 How to use this file — and how NOT to
+
+⚠ **This file is deliberately WITHOUT explanations.** It is a **recall sheet**, not a teaching document. Its whole value is that it is dense enough to read end-to-end in an hour.
+
+⭐ **Use it for recall drilling:** cover the right-hand column, read the left, and see whether the answer comes instantly. Anything that does not come instantly is a gap.
+
+⚠ **Do NOT try to learn a topic from here.** If an entry means nothing to you, go to the week's notes file where it is explained in plain language with worked examples:
+
+| § | Subject | Explanatory notes |
+|---|---|---|
+| §1 | Probability & Statistics | [Week 09](Week_09_Communication_and_Probability.md) |
+| §2 | Digital Logic | [Week 01](Week_01_Digital_Logic.md) |
+| §3 | Computer Organization & Architecture | [Week 02](Week_02_Computer_Organization_and_Architecture.md) |
+| §4 | Analog & Digital Communication | [Week 09](Week_09_Communication_and_Probability.md) |
+| §5 | Programming & Data Structures | [Week 03](Week_03_Programming_C_CPP_Java_OOP.md), [Week 04](Week_04_Data_Structures.md) |
+| §6 | Algorithms | [Week 05](Week_05_Algorithms.md) |
+| §7 | Compiler Design | [Week 11](Week_11_SoftwareEngineering_and_Compiler.md) |
+| §8 | Operating Systems | [Week 06](Week_06_Operating_Systems.md) |
+| §9 | Databases | [Week 07](Week_07_Databases.md) |
+| §10 | IS & Software Engineering | [Week 11](Week_11_SoftwareEngineering_and_Compiler.md) |
+| §11 | Computer Networks | [Week 08](Week_08_Computer_Networks.md) |
+| §12–14 | Web, Cyber Security, Cloud | [Week 10](Week_10_Web_Cloud_CyberSecurity.md) |
+| Paper-I | English, reasoning, GK | [Paper1](Paper1_English_Reasoning_GK.md) |
+
+⭐ **The 20 most-used numerical formulas, if you want a shortest possible list:**
+Pipeline cycles `k+n−1` · AMAT `T_c+(1−h)T_m` · rotational latency `30/RPM` · usable hosts `2^(32−p)−2` · efficiency `W/(1+2a)` · min frame `2·T_prop·B` · Shannon `B log₂(1+S/N)` · PCM SNR `6.02n+1.76` · Carson `2(Δf+f_m)` · AM power `P_c(1+μ²/2)` · Hamming `2ʳ ≥ m+r+1` · WT `TAT−BT` · page table `pages × PTE` · TLB EAT · Bayes · Var `E[X²]−(E[X])²` · binomial `np, np(1−p)` · V(G) `E−N+2` · PERT `(t_o+4t_m+t_p)/6` · COCOMO `2.4·KLOC^1.05`
 
 ---
 

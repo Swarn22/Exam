@@ -1,8 +1,33 @@
 # Detailed Notes — TPSC ATO (IT)
 
-Self-contained notes for every syllabus section, written to the depth this exam actually tests: **definitions, formulas, comparison tables and the specific facts that get asked as one-mark MCQs.** One file per week of [the study plan](../01_Study_Plan/12_Week_Study_Plan.md).
+Self-contained notes for every syllabus section, written to **teach the topic from scratch** and then compress it into exam-ready form. One file per week of [the study plan](../01_Study_Plan/12_Week_Study_Plan.md).
 
 These are written to be **sufficient on their own** for the exam. Standard textbooks are listed in the study plan for topics you want to go deeper on, but you should not need them to clear the cut-offs.
+
+---
+
+## How each topic is written
+
+Every topic follows the same four-part shape, so you can read at whatever depth you need:
+
+| Part | What it does |
+|---|---|
+| **💡 The idea** | Plain-language explanation of *what this is and why it exists* — often with an everyday analogy. No jargon, no formulas. Read this first if the topic is new to you. |
+| **How it works** | The actual mechanism, step by step. |
+| **🔢 Example** | A worked example with real numbers, of the type the exam asks. |
+| **Reference** | The tables, formulas and comparisons to memorise. |
+
+If you already know a topic, skip straight to the **Reference** blocks and the end-of-file summary tables. If it is new, read the 💡 sections in order — they are written assuming you know nothing about the topic.
+
+### Markers used throughout
+
+| Marker | Meaning |
+|---|---|
+| 💡 | Plain-language explanation — start here if the topic is new |
+| ⭐ | **Very high probability of being asked.** If you memorise nothing else, memorise these |
+| ⚠ | A common trap, or two concepts routinely confused with each other |
+| 📌 | A formula or rule to memorise verbatim |
+| 🔢 | A worked example of the type that gets asked |
 
 ---
 
@@ -28,19 +53,10 @@ These are written to be **sufficient on their own** for the exam. Standard textb
 
 ## How to use them
 
-1. **Mon–Wed of each week:** read that week's notes section by section. Do not read passively — copy every formula table into a notebook by hand. You will retain almost nothing you only read.
+1. **Mon–Wed of each week:** read that week's notes. Read the 💡 sections properly, then **copy every formula table into a notebook by hand**. You will retain almost nothing you only read.
 2. **Thu–Fri:** work the PYQs for that subject ([GATE](../03_GATE_CSE_PYQs/Subject_wise/) then [state-PSC level](../02_State_PSC_PYQs/Subject_wise/)), returning to the notes whenever a question exposes a gap.
-3. **Sat:** re-read only the ⭐ marked items and the section's summary table.
+3. **Sat:** re-read only the ⭐ items, the ⚠ traps and the summary tables.
 4. **Sun:** take the [weekly test](../04_Mock_Tests/), then annotate the notes wherever you got something wrong.
-
-### Conventions used in these notes
-
-| Mark | Meaning |
-|---|---|
-| ⭐ | **Very high probability of being asked.** If you memorise nothing else, memorise these. |
-| ⚠ | A common trap, or two concepts routinely confused with each other |
-| 📌 | A formula to memorise verbatim |
-| 🔢 | A worked numerical example of the type that gets asked |
 
 ---
 
