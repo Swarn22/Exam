@@ -3,7 +3,7 @@
 **Target exam:** Assistant Technical Officer, Group-B Gazetted · Department of Industries & Commerce (Information Technology), Govt. of Tripura
 **Advertisement:** TPSC Advt. No. 02/2026 (dated 27/04/2026) · **220 posts**
 **Pattern:** Written 170 marks (OMR MCQ, 3 hours) + Interview 30 marks = 200
-**Study window in this plan:** 07 Sep 2026 → 29 Nov 2026 (12 weeks)
+**Written exam:** Sun 17 Jan 2027 · **Current plan:** [Gate_notes_precise/00_Study_Roadmap.md](Gate_notes_precise/00_Study_Roadmap.md) — day by day, 02 Nov 2026 → exam
 
 ---
 
@@ -11,10 +11,12 @@
 
 | If you want to… | Open |
 |---|---|
-| Know what to study, week by week | [01_Study_Plan/12_Week_Study_Plan.md](01_Study_Plan/12_Week_Study_Plan.md) |
+| **Know what to study today** (2 Nov → 17 Jan) | ⭐ [Gate_notes_precise/00_Study_Roadmap.md](Gate_notes_precise/00_Study_Roadmap.md) |
+| **Learn/revise a subject fast** — precise topic-wise notes built from every note on gatenotes.in | ⭐ [Gate_notes_precise/](Gate_notes_precise/) |
+| See the original 12-week plan (Sep–Nov, superseded by the roadmap) | [01_Study_Plan/12_Week_Study_Plan.md](01_Study_Plan/12_Week_Study_Plan.md) |
 | See the official syllabus mapped to folders and weeks | [01_Study_Plan/Syllabus_and_Resource_Map.md](01_Study_Plan/Syllabus_and_Resource_Map.md) |
 | Track scores, coverage and mistakes | [01_Study_Plan/Weekly_Progress_Tracker.md](01_Study_Plan/Weekly_Progress_Tracker.md) |
-| **Actually learn a subject** | [05_Notes/](05_Notes/) — detailed notes, one file per week |
+| Learn a subject from scratch (detailed notes) | [05_Notes/](05_Notes/) — one file per week; also the main notes for Communication, SE, Web, Cloud, Cyber and GK |
 | Take this week's test | [04_Mock_Tests/](04_Mock_Tests/) |
 | Practise a subject with real past questions | [02_State_PSC_PYQs/Subject_wise/](02_State_PSC_PYQs/Subject_wise/) and [03_GATE_CSE_PYQs/Subject_wise/](03_GATE_CSE_PYQs/Subject_wise/) |
 
@@ -28,8 +30,12 @@ d:\Exam\
 ├── 02_State_PSC_PYQs\      State PSC & equivalent recruitment PYQs, subject-wise
 ├── 03_GATE_CSE_PYQs\       GATE CSE PYQs — year-wise (2000–2026) and subject-wise
 ├── 04_Mock_Tests\          12 weekly topic tests + 3 full-length mock blueprints
-└── 05_Notes\               Detailed subject notes, one file per week
+├── 05_Notes\               Detailed subject notes, one file per week
+└── Gate_notes_precise\     Day-by-day roadmap to 17 Jan + precise topic-wise notes (from gatenotes.in)
 ```
+
+### Gate_notes_precise — [README](Gate_notes_precise/README.md)
+The **day-by-day roadmap** (02 Nov 2026 → exam on 17 Jan 2027) and **10 precise, topic-wise note files**, built by reviewing all 75 in-syllabus PDFs on [gatenotes.in](https://gatenotes.in/gate-cse-notes.php) (Sanchit Sir as the backbone, plus Pearson, Made Easy, Ace Academy, GATE Applied Course and others). Each file rates every source PDF, marks errors found in the coaching notes, and ends with a one-screen revision sheet. The source PDFs (~2.5 GB) sit in `Gate_notes_precise/_source_pdfs/`, which is git-ignored.
 
 ### 01_Study_Plan
 Week-by-week schedule for all 14 Paper-II sections plus a daily Paper-I track, a time budget, exam-day mechanics, and rules for compressing the plan if the exam date lands early.
@@ -84,7 +90,7 @@ All material was downloaded from official or well-established public sources:
 
 - **Section-wise weightage for Paper-II is not published by TPSC.** Every marks estimate in these documents is my own, derived from the syllabus ordering and comparable exams, and is labelled as an estimate wherever it appears. All rules, dates, cut-offs and eligibility statements come directly from the advertisement.
 - **The negative marking ratio is not stated** in Advt. 02/2026 — Annexure-B only says it applies "as per TPSC norms". This workspace assumes **1/3**. Confirm from the admit card or instructions when they are issued.
-- **No written exam date had been announced** as of 02 Sep 2026, and the application window (12 May – 05 Jun 2026) has closed. The 12-week schedule assumes an exam on or after early December 2026; §9 of the study plan covers what to cut if it comes sooner.
+- **The written exam is on Sun 17 Jan 2027.** This was not yet on TPSC's public pages as of 02 Nov 2026, so confirm it on the admit card. The day-by-day [roadmap](Gate_notes_precise/00_Study_Roadmap.md) is built around it, and its §7 says how to shift if the date moves.
 - **The OWASP Top 10 is periodically revised.** Learn the current edition by name before the exam.
 - The ISRO/NIELIT/UGC-NET compilations are community-maintained (GATE Overflow), not official releases, though they are widely used and include worked solutions. The Kerala PSC and GATE papers are official.
 

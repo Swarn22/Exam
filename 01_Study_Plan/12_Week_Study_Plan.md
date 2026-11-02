@@ -5,6 +5,8 @@
 **Selection:** Written 170 marks (MCQ, OMR, 3 hours) + Interview/Personality Test 30 marks = 200
 **Plan window:** Mon **07 Sep 2026** → Sun **29 Nov 2026** (12 weeks)
 
+> **Superseded (02 Nov 2026):** the exam is on **Sun 17 Jan 2027** — follow the day-by-day [Study Roadmap](../Gate_notes_precise/00_Study_Roadmap.md) instead. This plan is kept for its subject breakdowns and reference sections (§2 weightage, §7 resources, §8 exam-day mechanics).
+
 > **Status note.** The application window (12 May – 05 Jun 2026) has closed, and the advertisement does not fix a written-exam date. This plan therefore assumes the written exam falls **on or after early December 2026**. If TPSC announces an earlier date, use the compression rules in [§9](#9-if-your-timeline-shrinks).
 
 ---
